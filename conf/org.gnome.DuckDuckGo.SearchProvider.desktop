@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Categories=GNOME;
+Icon=duckduckgo
+Name=DuckDuckGo
+Comment=GNOME Shell search provider for DuckDuckGo
+Exec=/usr/bin/xdg-open "https://duckduckgo.com"
+Terminal=false
+Type=Application
+OnlyShowIn=GNOME;

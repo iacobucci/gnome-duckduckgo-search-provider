@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.gnome.DuckDuckGo.SearchProvider
+Exec=/usr/lib/gnome-duckduckgo-search-provider/gnome-duckduckgo-search-provider.py
